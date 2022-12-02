@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HasanurHasan
-- 👀 I’m interested in Traveling
+- 👀 I’m interested in Traveling,Learning New Things
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Life
+- 📫 How to reach me hasanurhasaniim@gmail.com
 
 <!---
 HasanurHasan/HasanurHasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
